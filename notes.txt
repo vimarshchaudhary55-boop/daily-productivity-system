@@ -1,1 +1,6 @@
 This is a sample file to demonstrate repository activity
+//
+/
+This file will contain a few images od daily task scheduler..
+/
+Will update this file soon.
