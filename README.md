@@ -10,7 +10,8 @@ This repository contains a simple and structured approach to managing daily task
 - Daily task tracking
 - Habit consistency monitoring
 - Weekly review system
-
+- will update shotrtly
+- 
 ## Structure
 - tasks.md → Daily task logs
 - habits.md → Habit tracking
@@ -22,3 +23,4 @@ To maintain consistency, improve focus, and track progress over time.
 ## Tools
 - Markdown
 - GitHub for version tracking
+-  From to and within.
